@@ -37,8 +37,8 @@ Me chamo Gean, tenho 22 anos e sou natural do Brasil. Atualmente, trabalho e est
 ### 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=geanBr001&show_icons=true&theme=dark&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geanBr001&layout=compact&langs_count=7&theme=dark"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=geanBr001&show_icons=true&theme=dark&count_private=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geanBr001&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ---
